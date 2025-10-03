@@ -300,7 +300,12 @@ Al finalizar la simulación, se espera obtener:
 
 ## 👥 Equipo
 
-**Materia:** Simulación y Modelos  
+**Materia:** Simulación
+**Integrantes:**
+   - Matias Alejo Cao
+   - Nicolas Fernandez Ruoff
+   - Mateo Fernandez Cruz (Yo 🥳)
+   - Martin Gongora
 **Universidad:** UTN FRBA  
 **Año:** 2025  
 **Fecha límite tema:** 18 de Septiembre  
